@@ -2,4 +2,7 @@
 
 Currently [@bufbuild](https://github.com/bufbuild)
 
-Previously [@lyft](https://github.com/lyft), [Envoy Mobile](https://github.com/envoyproxy/envoy-mobile)
+Previously [@lyft](https://github.com/lyft)
+
+Things I've worked on:
+[Envoy Mobile](https://github.com/envoyproxy/envoy-mobile)
