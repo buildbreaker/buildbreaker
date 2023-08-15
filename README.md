@@ -1,8 +1,6 @@
 👋
 
-Currently [@bufbuild](https://github.com/bufbuild)
-
-Previously [@lyft](https://github.com/lyft)
+Previously [@lyft](https://github.com/lyft), [@bufbuild](https://github.com/bufbuild)
 
 Things I've worked on:
 
